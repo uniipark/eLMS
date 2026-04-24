@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./images/eLMS_Thumbnail.png" width="80%">
-  <h3>AI를 활용한 개인 맞춤형 추천 상품</h3>
+  <h3비대면 과제관리 시스템</h3>
 </div>
 
 ## ⌨️ 기간
