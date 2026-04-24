@@ -1,3 +1,4 @@
+프로젝트 원본 : https://github.com/SEWONBAEK/eLMS.git
 <div align="center">
   <img src="./images/eLMS_Thumbnail.png" width="80%">
   <h3비대면 과제관리 시스템</h3>
